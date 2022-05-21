@@ -4,10 +4,10 @@ Monorepo for eKirana Project
 
 # Intro #
 A eCommerce site where user can
-- [] Register/Login
-- [] Items CRUD
-- [] Cart Module
-- [] Order Module
+- [ ] Register/Login
+- [ ] Items CRUD
+- [ ] Cart Module
+- [ ] Order Module
 
 # Technologies used #
 
